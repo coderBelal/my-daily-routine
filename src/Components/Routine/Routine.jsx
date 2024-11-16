@@ -101,7 +101,10 @@ const RoutineTable = () => {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold text-center mb-4">দৈনিক রুটিন</h1>
+      
+      <h1 className="text-3xl font-bold text-center mb-4">দৈনিক রুটিন</h1>
+       <h1 className="text-2xl font-bold text-center mb-4">দুনিয়া উল্টে গেলেও এই  রুটিন মেনে চলতে হবে </h1>
+         <h1 className="text-2xl font-bold text-center mb-4">মানুষের মস্তিষ্ক সব কিছু করতে পারে</h1>
       <div className="overflow-x-auto">
         <table className="min-w-full table-auto border-collapse border border-gray-300">
           <thead>
