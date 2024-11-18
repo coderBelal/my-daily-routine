@@ -19,7 +19,7 @@ const RoutineTable = () => {
     },
     {
       time: "৭:০০ - ৯:৩০",
-      task: "কোডিং সেশন #১: নতুন ফিচার তৈরি বা বাগ ফিক্স করা।",
+      task: "Explore TG API",
       category: "কোডিং",
     },
     {
@@ -29,7 +29,7 @@ const RoutineTable = () => {
     },
     {
       time: "১০:০০ - ১২:৩০",
-      task: "কোডিং সেশন #২: নতুন স্কিল শেখা এবং প্রজেক্ট ডেভেলপমেন্ট।",
+      task: "React js and Tailwind Explore ",
       category: "কোডিং",
     },
     {
@@ -49,7 +49,7 @@ const RoutineTable = () => {
     },
     {
       time: "৩:০০ - ৫:০০",
-      task: "কোডিং সেশন #৩: জটিল সমস্যার সমাধান। আসরের নামাজ",
+      task: "JS Explore",
       category: "কোডিং",
     },
     {
@@ -69,7 +69,7 @@ const RoutineTable = () => {
     },
     {
       time: "৭:৪৫ - ৮:৩০",
-      task: "কোডিং সেশন #৪: ডকুমেন্টেশন এবং গিট আপডেট।",
+      task: "Intern Work",
       category: "কোডিং",
     },
     {
@@ -78,15 +78,11 @@ const RoutineTable = () => {
       category: "রাত",
     },
     {
-      time: "৯:০০ - ১০:০০",
-      task: "নতুন কিছু শেখা।",
+      time: "৯:০০ - ১১:০০",
+      task: " Inter Work",
       category: "রাত",
     },
-    {
-      time: "১০:০০ - ১১:০০",
-      task: "নিজের পছন্দের কাজ।",
-      category: "রাত",
-    },
+ 
     {
       time: "১১:০০ - ১১:৩০",
       task: "ঘুমের প্রস্তুতি।",
@@ -103,8 +99,7 @@ const RoutineTable = () => {
     <div className="container mx-auto p-4">
       
       <h1 className="text-3xl font-bold text-center mb-4">দৈনিক রুটিন</h1>
-       <h1 className="text-2xl font-bold text-center mb-4">দুনিয়া উল্টে গেলেও এই  রুটিন মেনে চলতে হবে </h1>
-         <h1 className="text-2xl font-bold text-center mb-4">মানুষের মস্তিষ্ক সব কিছু করতে পারে</h1>
+  
       <div className="overflow-x-auto">
         <table className="min-w-full table-auto border-collapse border border-gray-300">
           <thead>
