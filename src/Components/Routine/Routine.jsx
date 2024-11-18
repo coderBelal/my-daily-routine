@@ -49,7 +49,7 @@ const RoutineTable = () => {
     },
     {
       time: "৩:০০ - ৫:০০",
-      task: "JS Explore",
+      task: "others work   on coding ",
       category: "কোডিং",
     },
     {
