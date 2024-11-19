@@ -9,17 +9,18 @@ const RoutineTable = () => {
     },
     {
       time: "৬:১৫ - ৬:৩০",
-      task: "হালকা ব্যায়াম বা স্ট্রেচিং।",
+          task: "কুরআন তিলাওয়াত ও অর্থ বোঝা।",
       category: "সকাল",
     },
     {
       time: "৬:৩০ - :৬:৪৫",
-      task: "কুরআন তিলাওয়াত ও অর্থ বোঝা।",
+       task: "হালকা ব্যায়াম বা স্ট্রেচিং।",
+
       category: "সকাল",
     },
     {
       time: "৭:০০ - ৯:৩০",
-      task: "Explore TG API",
+      task: "Intern Work (loading and FAQ Desnig)",
       category: "কোডিং",
     },
     {
@@ -29,7 +30,7 @@ const RoutineTable = () => {
     },
     {
       time: "১০:০০ - ১২:৩০",
-      task: "React js and Tailwind Explore ",
+      task: " FAQ Function Add ",
       category: "কোডিং",
     },
     {
