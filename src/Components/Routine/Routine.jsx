@@ -76,7 +76,7 @@ const RoutineTable = () => {
     },
     {
       time: "৯:০০ - ১১:০০",
-      task: "DSA",
+      task: "Next js Tic Tac Toe",
       category: "রাত",
     },
  
