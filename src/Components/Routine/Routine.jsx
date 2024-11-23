@@ -7,11 +7,7 @@ const RoutineTable = () => {
       task: "ফজরের নামাজ আদায় ও দোয়া।",
       category: "সকাল",
     },
-    {
-      time: "৬:১৫ - ৬:৩০",
-          task: "কুরআন তিলাওয়াত ও অর্থ বোঝা।",
-      category: "সকাল",
-    },
+   
     {
       time: "৬:৩০ - :৬:৪৫",
        task: "হালকা ব্যায়াম বা স্ট্রেচিং।",
@@ -20,7 +16,7 @@ const RoutineTable = () => {
     },
     {
       time: "৭:০০ - ৯:৩০",
-      task: "Intern Work (loading and FAQ Desnig)",
+      task: "Redux and private routing explore",
       category: "কোডিং",
     },
     {
@@ -30,7 +26,7 @@ const RoutineTable = () => {
     },
     {
       time: "১০:০০ - ১২:৩০",
-      task: " FAQ Function Add ",
+      task: "  Compnay Work ",
       category: "কোডিং",
     },
     {
@@ -50,7 +46,7 @@ const RoutineTable = () => {
     },
     {
       time: "৩:০০ - ৫:০০",
-      task: "others work   on coding ",
+      task: " Compnay Work সাথে আসর নামাজ",
       category: "কোডিং",
     },
     {
@@ -70,7 +66,7 @@ const RoutineTable = () => {
     },
     {
       time: "৭:৪৫ - ৮:৩০",
-      task: "Intern Work",
+      task: "DSA",
       category: "কোডিং",
     },
     {
@@ -80,13 +76,13 @@ const RoutineTable = () => {
     },
     {
       time: "৯:০০ - ১১:০০",
-      task: " Inter Work",
+      task: "DSA",
       category: "রাত",
     },
  
     {
       time: "১১:০০ - ১১:৩০",
-      task: "ঘুমের প্রস্তুতি।",
+      task: "পরবর্তী দিনের প্রস্তুতি।",
       category: "রাত",
     },
     {
