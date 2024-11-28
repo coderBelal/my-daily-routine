@@ -16,7 +16,7 @@ const RoutineTable = () => {
     },
     {
       time: "৭:০০ - ৯:৩০",
-      task: "Redux and private routing explore",
+      task: "Next js Module 3 ",
       category: "কোডিং",
     },
     {
@@ -25,8 +25,8 @@ const RoutineTable = () => {
       category: "বিরতি",
     },
     {
-      time: "১০:০০ - ১২:৩০",
-      task: "  Compnay Work ",
+      time: "১০:৩০ - ১২:০০",
+      task: " Next js Module 4",
       category: "কোডিং",
     },
     {
@@ -46,7 +46,7 @@ const RoutineTable = () => {
     },
     {
       time: "৩:০০ - ৫:০০",
-      task: " Compnay Work সাথে আসর নামাজ",
+      task: "  Movie সাথে আসর নামাজ",
       category: "কোডিং",
     },
     {
