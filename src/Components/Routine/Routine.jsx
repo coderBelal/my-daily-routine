@@ -7,96 +7,84 @@ const RoutineTable = () => {
       task: "ফজরের নামাজ আদায় ও দোয়া।",
       category: "সকাল",
     },
-   
     {
-      time: "৬:৩০ - :৬:৪৫",
-       task: "হালকা ব্যায়াম বা স্ট্রেচিং।",
-
+      time: "৬:৩০ - ৭:০০",
+      task: "হালকা ব্যায়াম এবং নিজের জন্য মোটিভেশনাল ভিডিও দেখা।",
       category: "সকাল",
     },
     {
-      time: "৭:০০ - ৯:৩০",
-      task: "Next js Module 3 ",
+      time: "৭:১৫ - ১০:১৫",
+      task: "Next.js এবং DSA চর্চা।",
       category: "কোডিং",
     },
     {
-      time: "৯:৩০ - ১০:০০",
-      task: "বিরতি: হালকা খাবার বা পরিবারের সাথে সময় কাটানো।",
+      time: "১০:১৫ - ১০:৩০",
+      task: "বিরতি: হালকা নাশতা বা পরিবারের সাথে সময় কাটানো।",
       category: "বিরতি",
     },
     {
-      time: "১০:৩০ - ১২:০০",
-      task: " Next js Module 4",
+      time: "১০:৩০ - ১২:৩০",
+      task: "React এবং Tailwind CSS প্রজেক্টে কাজ।",
       category: "কোডিং",
     },
     {
-      time: "০১:০০ - ১:৩০",
+      time: "১২:৩০ - ১:০০",
       task: "যোহরের নামাজ।",
       category: "দুপুর",
     },
     {
-      time: "১:৩০ - ২:০০",
+      time: "১:০০ - ১:৩০",
       task: "দুপুরের খাবার।",
       category: "দুপুর",
     },
     {
-      time: "২:০০ - ৩:০০",
-      task: "হালকা বিশ্রাম।",
-      category: "দুপুর",
-    },
-    {
-      time: "৩:০০ - ৫:০০",
-      task: "  Movie সাথে আসর নামাজ",
+      time: "২:০০ - ৪:০০",
+      task: "নতুন JavaScript প্রজেক্টে চর্চা।",
       category: "কোডিং",
     },
     {
-      time: "৫:১৫ - ৫:৩০",
-      task: "মাগরিবের নামাজ।",
-      category: "সন্ধ্যা",
+      time: "৪:১৫ - ৫:৩০",
+      task: "আসরের নামাজ এবং প্রোগ্রামিং রিভিউ।",
+      category: "বিকাল",
     },
     {
       time: "৫:৩০ - ৬:০০",
-      task: "পরিবারের সাথে সময়।",
+      task: "মাগরিবের নামাজ এবং পরিবারের সাথে সময়।",
       category: "সন্ধ্যা",
     },
     {
-      time: "৭:০০ - ৭:৩০",
-      task: "ইশার নামাজ।",
-      category: "সন্ধ্যা",
-    },
-    {
-      time: "৭:৪৫ - ৮:৩০",
-      task: "DSA",
+      time: "৬:৩০ - ৮:০০",
+      task: "DSA এবং প্রজেক্ট ডিবাগিং।",
       category: "কোডিং",
     },
     {
-      time: "৮:৩০ - ৯:০০",
+      time: "৮:০০ - ৮:৩০",
       task: "রাতের খাবার।",
       category: "রাত",
     },
     {
-      time: "৯:০০ - ১১:০০",
-      task: "Next js Tic Tac Toe",
-      category: "রাত",
+      time: "৮:৩০ - ১১:০০",
+      task: "Tic Tac Toe/মিনি প্রজেক্ট চর্চা।",
+      category: "কোডিং",
     },
- 
     {
       time: "১১:০০ - ১১:৩০",
-      task: "পরবর্তী দিনের প্রস্তুতি।",
+      task: "পরবর্তী দিনের জন্য প্ল্যানিং।",
       category: "রাত",
     },
     {
       time: "১১:৩০ - ১২:০০",
-      task: "ঘুমিয়ে যাওয়া।",
+      task: "ঘুম।",
       category: "রাত",
     },
   ];
 
   return (
     <div className="container mx-auto p-4">
-      
-      <h1 className="text-3xl font-bold text-center mb-4">দৈনিক রুটিন</h1>
-  
+      <h1 className="text-3xl font-bold text-center mb-4">২০ দিনের প্রোগ্রামিং রুটিন</h1>
+      <p className="text-center mb-6 text-gray-700">
+        "কঠোর পরিশ্রমই সাফল্যের চাবিকাঠি। প্রতিদিন একটু একটু করে নিজেকে উন্নত করো।"
+      </p>
       <div className="overflow-x-auto">
         <table className="min-w-full table-auto border-collapse border border-gray-300">
           <thead>
